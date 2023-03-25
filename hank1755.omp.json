@@ -36,7 +36,7 @@
           "type": "git"
         },
         {
-          "background": "#003543",
+          "background": "#000",
           "foreground": "#fff",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
