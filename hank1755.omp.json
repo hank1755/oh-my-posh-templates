@@ -13,7 +13,7 @@
             "style": "full"
           },
           "style": "powerline",
-          "template": " \ue5ff {{ .Path }} ",
+          "template": " \ue5fd {{ .Path }} ",
           "type": "path"
         },
         {
