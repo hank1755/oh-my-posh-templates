@@ -44,7 +44,7 @@
           "type": "time"
         },
         {
-          "background": "#83769c",
+          "background": "#0087D8",
           "foreground": "#fff",
           "properties": {
             "always_enabled": true
