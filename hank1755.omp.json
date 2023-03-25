@@ -37,20 +37,20 @@
         },
         {
           "background": "#000",
-          "foreground": "#fff",
+          "foreground": "#cccccc",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
-          "template": "<#fff> \uf64f </>{{ .CurrentDate | date .Format }} ",
+          "template": "<#cccccc> \uf64f </>{{ .CurrentDate | date .Format }} ",
           "type": "time"
         },
         {
           "background": "#0087D8",
-          "foreground": "#fff",
+          "foreground": "#cccccc",
           "properties": {
             "always_enabled": true
           },
           "style": "diamond",
-          "template": " \ufbab {{ .FormattedMs }}\u2800",
+          "template": "<#cccccc> \ufbab {{ .FormattedMs }}\u2800",
           "trailing_diamond": "\ue0b4",
           "type": "executiontime"
         }
@@ -62,7 +62,7 @@
       "newline": true,
       "segments": [
         {
-          "foreground": "#8f8f8f",
+          "foreground": "#cccccc",
           "style": "plain",
           "template": " # ",
           "type": "root"
